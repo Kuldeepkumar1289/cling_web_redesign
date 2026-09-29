@@ -5,7 +5,7 @@ A modern, responsive, and performance-optimized homepage redesign for **Cling Mu
 ---
 
 ## 🚀 Live Demo & Links
-- **Live Demo:** [Insert your Vercel/Netlify Link Here]
+- **Live Demo:** [https://clingwebredesign-la71cq18d-kuldeep-2f42.vercel.app/]
 - **Repository:** [https://github.com/Kuldeepkumar1289/cling_web_redesign](https://github.com/Kuldeepkumar1289/cling_web_redesign)
 
 ---
